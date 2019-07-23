@@ -57,7 +57,7 @@ export default {
       todos: [
           {
               'id': 1,
-              'title': 'Connect frontend Vue to Firebase',
+              'title': 'Crush coding challenge',
               'completed': false,
               'editing': false,
           },
